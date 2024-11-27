@@ -9,10 +9,7 @@ lerna-debug.log*
 
 
 
-.env.local
-.env
-__pycache__
-pyvenv.cfg
+
 
 node_modules
 dist
